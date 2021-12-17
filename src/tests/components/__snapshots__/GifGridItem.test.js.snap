@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test gifgriditem should show <GifGridItem> 1`] = `
+<div
+  className="card animate__animated animate__fadeIn"
+>
+  <img
+    alt="titulo"
+    src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy-inverted.svg"
+  />
+  <p>
+    titulo
+  </p>
+</div>
+`;
